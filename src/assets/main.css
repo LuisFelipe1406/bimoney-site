@@ -1,0 +1,51 @@
+* {
+  margin: 0vh;
+  padding: 0vh;
+  box-sizing: border-box;
+  font-family: Roboto;
+  text-align: center;
+}
+
+body {
+  background-color: var(--our-gray);
+}
+
+input:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span {
+  cursor: default;
+}
+
+a span {
+  cursor: pointer;
+}
+
+.routerLink {
+  text-decoration: none;
+
+  cursor: pointer;
+}
+
+.routerLink span {
+  cursor: pointer;
+}
+
+.scrollLock {
+  overflow: hidden;
+}
