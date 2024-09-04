@@ -1,2 +1,2 @@
-# bimoney-site
-Site da Bimoney
+# Bimoney
+Site da Bimoney, todos os direitos reservados.
