@@ -30,6 +30,8 @@ h5,
 p,
 span {
   cursor: default;
+
+  color: #022a44;
 }
 
 a span {
@@ -48,4 +50,8 @@ a span {
 
 .scrollLock {
   overflow: hidden;
+}
+
+.hDestaque {
+  color: var(--our-green);
 }
